@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq02-Demo", "Linq02-Demo\Linq02-Demo.csproj", "{8158560F-1CF1-42CE-9953-E1B4F846CBAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq-As02", "Linq-As02\Linq-As02.csproj", "{896E085F-71D1-4066-BECA-1404CAA4E901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8158560F-1CF1-42CE-9953-E1B4F846CBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8158560F-1CF1-42CE-9953-E1B4F846CBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8158560F-1CF1-42CE-9953-E1B4F846CBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8158560F-1CF1-42CE-9953-E1B4F846CBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896E085F-71D1-4066-BECA-1404CAA4E901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896E085F-71D1-4066-BECA-1404CAA4E901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896E085F-71D1-4066-BECA-1404CAA4E901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896E085F-71D1-4066-BECA-1404CAA4E901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E098DCF5-38F9-4C2D-8319-6F035A0F00D7}
+	EndGlobalSection
+EndGlobal
